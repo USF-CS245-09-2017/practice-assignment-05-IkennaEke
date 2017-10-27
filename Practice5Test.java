@@ -1,4 +1,3 @@
-
 public class Practice5Test {
 	
 	protected BSTree tree;
